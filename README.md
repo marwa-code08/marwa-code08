@@ -53,8 +53,6 @@ I'm passionate about Artificial Intelligence, Machine Learning, Data Science, an
 - Research projects in intelligent and autonomous systems.
 - Open-source projects.
 
-### 💬 Ask Me About
-Python, Machine Learning, Data Science, Operations Research, Optimization, and Software Development.
 
 ### 📫 How to Reach Me
 - **Email:** ouatrimaroua@gmail.com
